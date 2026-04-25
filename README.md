@@ -16,6 +16,14 @@
 
 ---
 
+## 🎥 Demo Video
+
+🎬 **Watch the full working demo here:**
+
+https://drive.google.com/file/d/1pCQHbOAtWCXgIAKrxYbEEZzz8QqxfS4E/view?usp=drive_link
+
+---
+
 ## 🏆 Certificate & Achievement
 
 ![Certificate](assets/results/certificate.png)
@@ -124,7 +132,7 @@ Q: What happens if target not found in Binary Search?
 
 ![Login](assets/screenshots/login.png)
 
-> Password aur Username fields swap hain. Button hover pe bhaagta hai — 3 baar bhaagne ke baad hi click hota hai! Sab kuch ulta dikh raha hai. 😈
+> Password aur Username fields swap hain. Button hover pe bhaagta hai — 3 baar bhaagne ke baad hi click hota hai! 😈
 
 ---
 
@@ -274,10 +282,10 @@ npm test
    └── Dramatic red overlay effect
 
 3. 🏎️ Main Page (upside-down, RTL)
-   ├── Click "HCRAES"           → Whack-a-Mole 🔨
-   ├── Click Nav Links          → Tic-Tac-Toe ❌⭕
-   ├── Click any Car Card       → GIF Surprise + Detail 🎉
-   └── Click "SSERGORP EVAS"   → MASSIVE EXPLOSION 💥
+   ├── Click "HCRAES"          → Whack-a-Mole 🔨
+   ├── Click Nav Links         → Tic-Tac-Toe ❌⭕
+   ├── Click any Car Card      → GIF Surprise + Detail 🎉
+   └── Click "SSERGORP EVAS"  → MASSIVE EXPLOSION 💥
 ```
 
 ---
